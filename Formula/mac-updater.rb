@@ -4,9 +4,9 @@
 class MacUpdater < Formula
   desc "A tool to update macOS applications"
   homepage "https://github.com/beardcoder/mac-updater"
-  url "https://github.com/beardcoder/mac-updater/releases/download/v0.2.0/mac-updater.zip"
-  sha256 "be5ad69632beb4a0f90749d774cbc0a0b181c1fffaa4423b51c1018d59cfe1c0"
-  version "0.2.0"
+  url "https://github.com/beardcoder/mac-updater/releases/download/v0.3.0/mac-updater.zip"
+  sha256 "aaa0ebbaad7146132b2fa6e32340a813a809c43edec7f0ec8007a3cb11c2bcc4"
+  version "0.3.0"
 
   def install
     bin.install "mac-updater"
